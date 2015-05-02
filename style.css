@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: pink;
+	background-image: url(photo-1416339442236-8ceb164046f8.jpeg);
+	background-size: cover;
+	width: 80%;
+	margin: 50px auto;
+}
+#content {
+	background-color: rgba(255,255,255,.85);
+	padding: 40px;
+	max-width: 80%;
+	float: left;
+}
+a {
+	color: red;
+	font-weight: bold;
+	font-style: italicized;
+}
+
+.centered {
+	margin: 0 auto;
+	width: 100%;
+}
+
+#theTable {
+	background-color: #FF414C;
+	color: white;
+	width: 50%;
+	margin: 30px auto;
+}
+
+#theTable td {
+	background-color: #FFF;
+	text-align: center;
+	padding: 5px;
+	color: #555;
+	font-size: 1.5em;
+}
+
+th {
+	text-align: center;
+}
+
+.email {
+	background: red;
+	color: white;
+}
+
+.title {
+	font-size: 2em;
+}
