@@ -1,8 +1,9 @@
 body {
 	font-family: Arial, sans-serif;
-	background-color: pink;
-	background-image: url(photo-1416339442236-8ceb164046f8.jpeg);
+	background-color: white;
+	background-image: url(photo-1416339442236-8ceb164046f8.jpg);
 	background-size: cover;
+	background-repeat: no-repeat;
 	width: 80%;
 	margin: 50px auto;
 }
